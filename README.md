@@ -2,6 +2,8 @@
 - A quick and dirty tool for parsing old 3D Studio Max files and replacing absolute paths with relative paths...
 - This is intended to be used with the DinkSmallwood model files from the 90s!
 
+For more info, check out [This Dink Network Thread](https://www.dinknetwork.com/forum.cgi?MID=208151#208151)
+
 ## How to use?
 - Simply copy it and run it in the "DinkSmallwood3DSMaxModelsAndEverything" folder
 - ...or pass the folder path as the first argument using CMD: ex: ```DinkModelPathFixer "D:\MyStuff\Idk\DinkSmallwood3DSMaxModelsAndEverything\"```
